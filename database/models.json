@@ -1,0 +1,18 @@
+[
+  {
+    "database": "micple",
+    "collections": ["activities", "groups", "mails", "notes", "notifications", "reports", "rooms", "users", "educations", "works"]
+  },
+  {
+    "database": "chief",
+    "collections": ["admins", "chatus", "frontads", "mailus", "news", "notices"]
+  },
+  {
+    "database": "cloud",
+    "collections": ["archives", "media"]
+  },
+  {
+    "database": "posts",
+    "collections": ["posts", "comments"]
+  }
+]

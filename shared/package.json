@@ -1,0 +1,19 @@
+{
+  "name": "micple-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@94.130.173.244:~/micple/shared"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
